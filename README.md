@@ -1,4 +1,4 @@
-# flutter_application_5
+# Mini-Compiler-Visual-Debugger-App-Simplified-Version-
 
 A new Flutter project.
 
